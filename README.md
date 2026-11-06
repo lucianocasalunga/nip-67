@@ -1,4 +1,4 @@
-# NIP-67 · EOSE Completeness Hint on LiberNet
+# NIP-67 (EOSE Completeness) on LiberNet
 
 > EOSE Completeness Hint, as used by the **LiberNet** apps.
 
